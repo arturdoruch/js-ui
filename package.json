@@ -1,7 +1,7 @@
 {
   "name": "@arturdoruch/ui",
   "description": "A set of functions adding user interface events to the HTML elements.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "dependencies": {
     "jquery": ">=2.0",
