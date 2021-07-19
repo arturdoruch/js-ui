@@ -13,7 +13,7 @@ yarn add @arturdoruch/ui
 #### Content events
 
 ```js
-import contentEvents from '@arturdoruch/ui/lib/content-events';
+import contentEvents from '@arturdoruch/ui/lib/content-events.js';
 ```
 
 Functions
@@ -24,7 +24,7 @@ Functions
 #### Scroll events
  
 ```js
-import scrollEvents from '@arturdoruch/ui/lib/scroll-events';
+import scrollEvents from '@arturdoruch/ui/lib/scroll-events.js';
 ```
 
 Functions
@@ -36,5 +36,5 @@ Functions
 Scrolling page event dispatcher.
  
 ```js
-import pageScrollDispatcher from '@arturdoruch/ui/lib/page-scroll-dispatcher';
+import pageScrollDispatcher from '@arturdoruch/ui/lib/page-scroll-dispatcher.js';
 ```
